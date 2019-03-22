@@ -1,0 +1,10 @@
+books-to-write.txt
+Created Fri Mar 22 14:06:32 AKDT 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Books to Write
+
+
++++ Fri Mar 22 14:06:32 AKDT 2019 - Perhaps "Accessing Office Documents
+  with Open-source" Could cover OOXML format, code, and applications.
