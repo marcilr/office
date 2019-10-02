@@ -26,7 +26,10 @@
 
 
 
-# -----------------------------------------------------
-# Source                                         Target
-# -----------------------------------------------------
-ssh://git@github.com/marcilr/excel                excel
+# ------------------------------------------------------
+# Source                                      Target
+# ------------------------------------------------------
+ssh://git@github.com/marcilr/excel.git        excel
+ssh://git@github.com/marcilr/powerpoint.git   powerpoint
+ssh://git@github.com/marcilr/word.git         word
+
