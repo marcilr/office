@@ -1,0 +1,11 @@
+#.gitignore
+# Created Wed Oct  2 07:53:03 AKDT 2019
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore
+#
+.gitignore
+excel/
+powerpoint/
+word/
+
